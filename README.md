@@ -16,9 +16,6 @@ A apresentação foi projetada para auxiliar desenvolvedores, designers e empree
 - `docs/`  
   Contém a apresentação gerada no Gamma.app em formato PDF.
   
-- `assets/`  
-  Recursos visuais utilizados na apresentação, como imagens e ícones.
-
 - `README.md`  
   Este arquivo de descrição.
 
